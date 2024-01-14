@@ -15,8 +15,9 @@ about me, check out [my website](https://sflury.github.io).
 
 Below are several repositories of code I've released publicly for various scientific applications. They include
 statistics ([feldcous](https://www.github.com/sflury/feldcous), [histogram](https://www.github.com/sflury/histogram),
-[kendall](https://www.github.com/sflury/kendall)) and modeling ([OutLines](https://www.github.com/sflury/OutLines), 
-[redneb](https://www.github.com/sflury/redneb)).
+[kendall](https://www.github.com/sflury/kendall), [LinRegConf](https://github.com/sflury/LinRegConf)), 
+modeling ([OutLines](https://www.github.com/sflury/OutLines), [redneb](https://www.github.com/sflury/redneb)), and
+combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
 
 ### Quick Facts
 - 🔭 I am currently working on
