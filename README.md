@@ -18,18 +18,33 @@ statistics ([feldcous](https://www.github.com/sflury/feldcous), [histogram](http
 [kendall](https://www.github.com/sflury/kendall)) and modeling ([OutLines](https://www.github.com/sflury/OutLines), 
 [redneb](https://www.github.com/sflury/redneb)).
 
-## Quick Facts
+### Quick Facts
 - 🔭 I am currently working on
   - multivariate and survival stats analysis (R and python)
-  - statistical approaches to computer game events (C# and python)
-  - database development for computer game content
+  - statistical approaches to computer game event outcomes (C# and python)
 - 🌱 I am currently learning
-  - database development and management (and some SQL)
+  - database dev and management (and some SQL)
   - C# and Unity
-  - smoother, object-oriented implementations of public code
+  - CSS, Javascript, and HTML for website dev
 - 💬 Ask me about
   - astronomy
-  - computer game development
+  - computer game dev (front and back ends)
   - statistics
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I enjoy board games 🎲, cats 🐈, reading 📖, and baking bread 🥖
+- ⚡ Fun facts: I enjoy board games 🎲, cats 🐈, reading 📖, music 🎹, nature 🍃, and baking bread 🥖
+
+### Highlighted Repository: [OutLines](https://www.github.com/sflury/OutLines)
+
+<img width="256" alt="cartoon model" align="left" src="https://github.com/sflury/sflury/assets/42982705/65c6909a-ff77-4709-a894-d21d63acc1db">
+This code calculates model emission and absorption line profiles based on the physics of stellar winds and galactic
+outflows. The basic premise is illustrated with this (highly simplistic) cartoon where the light green gas emits
+light and the dark green gas emits _and_ absorbs light. All the gas is moving with some momentum based on how far
+away that gas is from the source of its momentum. The motion of the gas causes a _Doppler shift_ in the light 
+absorbed or emitted by the gas, indicated by the color of the arrows. As a result, the motion of the gas and the 
+amount of gas at each Doppler shift produce a unique signature in the light we ultimately observe.  <br><br>
+
+<img width="256" alt="O VI profile" align="left" src="https://github.com/sflury/OutLines/blob/main/ovi_examp.png">
+An example of the light we might see is the the O VI P Cygni feature in the far ultraviolet, as shown here, where
+the dips correspond to the absorbing gas (the dark green region) and the spikes correspond to the emitting gas
+(light and dark green regions). We see the spikes and dips together, which makes them combine to "cancel out"
+in some places but not others. My code models both the spikes and the dips in order to predict the total profile.
