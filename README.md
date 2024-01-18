@@ -25,14 +25,19 @@ combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
   - statistical approaches to computer game event outcomes (C# and python)
 - 🌱 I am currently learning
   - database dev and management (and some SQL)
-  - C# and Unity
   - CSS, Javascript, and HTML for website dev
 - 💬 Ask me about
   - astronomy
-  - computer game dev (front and back ends)
   - statistics
+  - computer game dev (front and back end)
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I enjoy board games 🎲, cats 🐈, reading 📖, music 🎹, nature 🍃, and baking bread 🥖
+- ⚡ Fun things I enjoy:
+  - 🎲 tabletop games
+  - 🐈 cats
+  - 📖 reading
+  - 🎹 music
+  - 🍃 nature
+  - 🥖 baking bread
 
 ### Highlighted Repository: [OutLines](https://www.github.com/sflury/OutLines)
 
