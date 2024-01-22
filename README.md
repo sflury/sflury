@@ -26,18 +26,9 @@ combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
 - 🌱 I am currently learning
   - database dev and management (and some SQL)
   - CSS, Javascript, and HTML for website dev
-- 💬 Ask me about
-  - astronomy
-  - statistics
-  - computer game dev (front and back end)
+- 💬 Ask me about: astronomy, statistics, galaxies
 - 😄 Pronouns: she/her
-- ⚡ Fun things I enjoy:
-  - 🎲 tabletop games
-  - 🐈 cats
-  - 📖 reading
-  - 🎹 music
-  - 🍃 nature
-  - 🥖 baking bread
+- ⚡ Fun things I enjoy: 🎲 tabletop games, 🐈 cats, 📖 reading, 🎹 music, 🥖 baking bread
 
 ### Highlighted Repository: [OutLines](https://www.github.com/sflury/OutLines)
 
