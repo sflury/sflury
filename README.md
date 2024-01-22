@@ -34,7 +34,7 @@ An example of the light we might see is the the O VI P Cygni feature in the far 
 the dips correspond to the absorbing gas (the dark green region) and the spikes correspond to the emitting gas
 (light and dark green regions). We see the spikes and dips together, which makes them combine to "cancel out"
 in some places but not others. My code models both the spikes and the dips in order to predict the total profile. 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### Quick Facts
 - 🔭 I am currently working on
