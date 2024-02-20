@@ -25,7 +25,7 @@ combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
 
 ### Highlighted Repository: [OutLines](https://www.github.com/sflury/OutLines)
 
-<img width="256" alt="image" src="https://github.com/sflury/sflury/assets/42982705/8d3e1897-8c2d-456d-8efe-a2ffa49d24c4">
+<img width="256" alt="cartoon depicting observation of an outflow" align="left" src="https://github.com/sflury/sflury/assets/42982705/8d3e1897-8c2d-456d-8efe-a2ffa49d24c4">
 This code calculates model emission and absorption line profiles based on the physics of stellar winds and galactic
 outflows. The basic premise is illustrated with this (highly simplistic) cartoon where the light green gas emits
 light and the dark green gas emits _and_ absorbs light. All the gas is moving with some momentum based on how far
