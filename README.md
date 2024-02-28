@@ -27,17 +27,19 @@ combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
 
 <img width="256" alt="cartoon depicting observation of an outflow" align="left" src="https://github.com/sflury/sflury/assets/42982705/8d3e1897-8c2d-456d-8efe-a2ffa49d24c4">
 This code calculates model emission and absorption line profiles based on the physics of stellar winds and galactic
-outflows. The basic premise is illustrated with this (highly simplistic) cartoon where the light green gas emits
-light and the dark green gas emits _and_ absorbs light. All the gas is moving with some momentum based on how far
+outflows. The basic premise is illustrated with this (highly simplistic) cartoon where the yellow gas emits
+light and the orange gas emits _and_ absorbs light. All the gas is moving with some momentum based on how far
 away that gas is from the source of its momentum. The motion of the gas causes a _Doppler shift_ in the light 
-absorbed or emitted by the gas, indicated by the color of the arrows. As a result, the motion of the gas and the 
+absorbed or emitted by the gas, indicated by the color of the arrows (purple = blue-shifted, red = red-shifted, 
+green = not shifted). As a result, the motion of the gas and the 
 amount of gas at each Doppler shift produce a unique signature in the light we ultimately observe.  <br><br>
 
 <img width="256" alt="O VI profile" align="left" src="https://github.com/sflury/OutLines/blob/main/ovi_examp.png">
 An example of the light we might see is the the O VI P Cygni feature in the far ultraviolet, as shown here, where
-the dips correspond to the absorbing gas (the dark green region) and the spikes correspond to the emitting gas
-(light and dark green regions). We see the spikes and dips together, which makes them combine to "cancel out"
+the dips correspond to the absorbing gas (the orange region) and the spikes correspond to the emitting gas
+(yellow and orange regions). We see the spikes and dips together, which makes them combine to "cancel out"
 in some places but not others. My code models both the spikes and the dips in order to predict the total profile. 
+Examples are included in the repository readme.
 <br><br><br><br><br><br>
 
 ### Quick Facts
