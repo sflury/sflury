@@ -34,7 +34,7 @@ absorbed or emitted by the gas, indicated by the color of the arrows (purple = b
 green = not shifted). As a result, the motion of the gas and the 
 amount of gas at each Doppler shift produce a unique signature in the light we ultimately observe.  <br><br>
 
-<img width="256" alt="O VI profile" align="left" src="https://github.com/sflury/OutLines/blob/main/ovi_examp.png">
+<img width="256" alt="O VI profile" align="left" src="https://github.com/sflury/OutLines/blob/main/examps/ovi_examp.png">
 An example of the light we might see is the the O VI P Cygni feature in the far ultraviolet, as shown here, where
 the dips correspond to the absorbing gas (the orange region) and the spikes correspond to the emitting gas
 (yellow and orange regions). We see the spikes and dips together, which makes them combine to "cancel out"
