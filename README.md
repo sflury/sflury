@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 My name is Sophia!
 
-I am an astronomer based in the US. My scientific research focuses on understanding the nebulae in galaxies both 
+I am an astronomer from the US and based in the UK. My scientific research focuses on understanding the nebulae in galaxies both 
 nearby and (sometimes _very_) far away using spectroscopy of light emitted in the UV, visible, and infrared. 
 I also spend a lot of time developing code for various modeling and statistical analyses for my research. For more
 about me, check out [my website](https://sflury.github.io).
