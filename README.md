@@ -46,6 +46,7 @@ Examples are included in the repository readme.
 - 🔭 I am currently working on
   - multivariate and survival stats analysis (R and python)
   - statistical approaches to computer game event outcomes (C# and python)
+  - python package design and optimization
 - 🌱 I am currently learning
   - database dev and management (and some SQL)
   - CSS, Javascript, and HTML for website dev
