@@ -20,7 +20,11 @@ statistics (
 [histogram](https://www.github.com/sflury/histogram),
 [kendall](https://www.github.com/sflury/kendall), 
 [LinRegConf](https://github.com/sflury/LinRegConf)
-), modeling ([OutLines](https://www.github.com/sflury/OutLines), [redneb](https://www.github.com/sflury/RedNeb)), and
+), modeling (
+[OutLines](https://www.github.com/sflury/OutLines), 
+[RedNeb](https://www.github.com/sflury/RedNeb),
+[LymanTrans](https://www.github.com/sflury/LymanTrans)
+), and
 combinations of the two ([LyCsurv](https://github.com/sflury/LyCsurv)).
 
 ### Highlighted Repository: [OutLines](https://www.github.com/sflury/OutLines)
