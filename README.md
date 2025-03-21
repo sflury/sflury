@@ -19,6 +19,7 @@ statistics (
 [KaplanMeier](https://www.github.com/sflury/KaplanMeier),
 [histogram](https://www.github.com/sflury/histogram),
 [kendall](https://www.github.com/sflury/kendall), 
+[towrecan](https://www.github.com/sflury/towrecan), 
 [LinRegConf](https://github.com/sflury/LinRegConf)
 ), modeling (
 [OutLines](https://www.github.com/sflury/OutLines), 
@@ -48,6 +49,7 @@ Examples are included in the repository readme.
 
 ### Quick Facts
 - 🔭 I am currently working on
+  - object-oriented user-friendly modeling of spectral lines (python)
   - multivariate and survival stats analysis (R and python)
   - statistical approaches to computer game event outcomes (C# and python)
   - python package design and optimization
